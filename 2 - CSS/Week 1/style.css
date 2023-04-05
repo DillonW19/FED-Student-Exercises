@@ -1,0 +1,24 @@
+* {
+    font-family: "B612", monospace;
+}
+
+
+p {
+    color: purple;
+    font-size: x-large;
+}
+
+.oColor {
+    color: pink;
+    font-size: small;
+}
+
+h1 {
+    color: blueviolet;
+    font-size: xxx-large;
+}
+
+
+body {
+    background-color: aqua;
+}
