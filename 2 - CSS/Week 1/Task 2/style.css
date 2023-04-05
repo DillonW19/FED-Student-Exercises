@@ -1,0 +1,39 @@
+* {
+    font-family: "B612", monospace;
+}
+
+
+p {
+    color: purple;
+    font-size: x-large;
+}
+
+.oColor {
+    color: pink;
+    font-size: small;
+}
+
+h1 {
+    color: blueviolet;
+    font-size: xxx-large;
+}
+
+
+body {
+    background-color: aqua;
+}
+
+h1:hover {
+    background-color: yellow;
+    font-family: sans-serif;
+  }
+
+.oColor:hover {
+    background-color: greenyellow;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+
+p:hover {
+    background-color: white;
+    font-family: fantasy;
+  }
